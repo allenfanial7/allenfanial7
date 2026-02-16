@@ -25,7 +25,18 @@
 ### 🔐 Secure Library Database
 - Designed a secure Library Database system  
 - Implemented role-based access and safe queries  
-- Focused on data safety and structured storage  
+- Focused on data safety and structured storage
+
+## 📂 Projects
+
+### 📊 Financial Profit & Loss Report (Power BI)
+- Created an interactive **Profit & Loss dashboard** using Power BI  
+- Analyzed income, expenses, and net profit with clear visualizations  
+- Used data cleaning, calculations, and charts for better insights  
+- Helpful for understanding business financial performance  
+
+**Tools Used:** Power BI, Data Analysis
+
 
 ---
 
