@@ -37,9 +37,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥈 2nd Place – Best Electrical Setup (ITI Hyderabad)  
-- 🌟 Best Team Player – Internship at Hyderabad Power Corporation Ltd.  
-
+- 
 ---
 
 ## 🌐 Languages
