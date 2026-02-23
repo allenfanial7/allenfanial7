@@ -1,4 +1,4 @@
-# Hi 👋, I'm Allen Fanial
+# Hi 👋🏻, I'm Allen Fanial
 
 🎓 Vocational Student | Additive Manufacturing Technician  
 🤖 AI Programming Assistant | Data Analysis Learner  
