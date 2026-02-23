@@ -66,7 +66,9 @@
 
 ## 📫 Connect With Me
 - 📍 Kanpur, Uttar Pradesh,  India  
-- ✉️ Email: allefanial@icloud.com  
+- ✉️ Email: allefanial@icloud.com
+- linkedIn: www.linkedin.com/in/allen-fanial-944628383
+  
 
 ---
 
